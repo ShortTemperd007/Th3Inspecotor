@@ -1,4 +1,4 @@
-## 🚀🚀🔥🔥🔥CHECK MY NEW PRO PRIVATE TOOL 🔥🔥🔥🔥🚀🚀(https://github.com/Moham3dRiahi/XAttackProV30)
+                                   TH3INSPECTOR::::::::: AN INFORMATION GATHERING TOOL
 
 
 <h2>Th3inspector Tool 🕵️</h2>
@@ -20,8 +20,7 @@
 <img src="https://i.imgur.com/77MVBFF.jpg" width="400" height="156"></img>
 <hr>
 
-<h2>Video</h2>
-<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
+
 
 <h2>Usage</h2>
 
@@ -134,25 +133,19 @@
 
 <hr>
 
-## Donations
 
-Found XATTACKER cool? just drop a THANK YOU 
-this will motivate me to create more exciting stuffs for you
 
 <hr>
 <h2>📧 Contact</h2>
 <h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
  <tr><br>
-<td><a href="https://t.me/mrmoham3driahi"><img src="https://img.shields.io/badge/TELEGRAM-MRMoham3dRiahi-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" style="max-width:100%;"></a></td>
+<td><a href="https://www.instagram.com/shorttemperd007/"><img src="https://img.shields.io/badge/INSTAGRAM-Shorttemperd007-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/INSTAGRAM-Shorttemperd007-blue" style="max-width:100%;"></a></td>
 </tr>
 
  <tr>
 <td><a href="mailto:mohamedriahi@gmail.com"><img src="https://img.shields.io/badge/Mail-moham3driahi%40gmail.com-red " style="max-width:100%;"></a></td>
 </tr>
 <hr>
-<h2> ✨ Finally Don't Miss Out My New Telegram Channel for Private Tools && Methods And Updates ✨ </h2>
-
-<a href="https://t.me/moham3driahi_tools"><img src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " alt="Version" data-canonical-src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " style="max-width:100%;"></a>
 
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
