@@ -139,8 +139,11 @@
 <h2>📧 Contact</h2>
 <h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
  <tr><br>
+   
  INSTAGRAM:  https://www.instagram.com/shorttemperd007/
+   
  SUBSTACK:  https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu
+ 
 
 
 ```bash
