@@ -1,5 +1,5 @@
                                    TH3INSPECTOR::::::::: AN INFORMATION GATHERING TOOL
-
+                                                   **SHORTTEMPERD007**
 
 <h2>Th3inspector Tool 🕵️</h2>
 <img align="left" width="120" height="120" src="https://i.imgur.com/63TSBiM.png">
@@ -139,19 +139,12 @@
 <h2>📧 Contact</h2>
 <h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
  <tr><br>
-<td><a href="https://www.instagram.com/shorttemperd007/"><img src="https://img.shields.io/badge/INSTAGRAM-Shorttemperd007-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/INSTAGRAM-Shorttemperd007-blue" style="max-width:100%;"></a></td>
-</tr>
+ INSTAGRAM:  https://www.instagram.com/shorttemperd007/
+ SUBSTACK:  https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu
 
- <tr>
-<td><a href="mailto:mohamedriahi@gmail.com"><img src="https://img.shields.io/badge/Mail-moham3driahi%40gmail.com-red " style="max-width:100%;"></a></td>
-</tr>
-<hr>
-
-
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/ShortTemperd007/Th3Inspecotor.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
 ```
@@ -161,7 +154,7 @@ chmod +x install.sh && ./install.sh
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/ShortTemperd007/Th3Inspecotor.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
 ```
